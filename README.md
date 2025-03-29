@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moses798
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... C++, VB, Python and C#
-- 💞️ I’m looking to collaborate on ... Desktop and Android Developement
+- 💞️ I’m looking to collaborate on ... Desktop, Web, and Android development
 - 📫 How to reach me ... moseschola798@gmail.com 
 
 <!---
